@@ -12,4 +12,10 @@ A collection of my work
 
  Pupose is to see the insight graph chart of the Avocado Price regard to demand in US
  
-3. [Data Analysis for Avocado average price in US]()
+ * ### Data Analysis
+ 
+1. [Data Analysis for Avocado average price in US](https://github.com/oladebo/Portfolio-Projects/blob/main)
+
+Analysis of Avocado average price 2020 insight data imported from kaggle
+
+
